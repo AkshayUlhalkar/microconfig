@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ConfigDeV
+    name: ConfigProd
 eureka:
   client:
     fetch-registry: 'true'
